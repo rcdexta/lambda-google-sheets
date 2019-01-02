@@ -1,0 +1,12 @@
+{
+  "name": "Customers",
+  "description": "All customer related details sync",
+  "spreadsheetUrl": "https://docs.google.com/spreadsheets/d/1d4QXXx8qFRhcajpVcEbwVM8TlEXAvrclWpLGmqvw-Pc/edit#gid=0",
+  "spreadsheetId": "1d4QXXx8qFRhcajpVcEbwVM8TlEXAvrclWpLGmqvw-Pc",
+  "tables": [
+    {
+      "tableName": "customer_details",
+      "sheetName": "Sheet1"
+    }
+  ]
+}

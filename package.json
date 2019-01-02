@@ -1,0 +1,13 @@
+{
+  "name": "lambda-google-sheets",
+  "version": "1.0.0",
+  "description": "Lambda function to pull data from Redshift DWH and dump to Google Spreadsheet",
+  "main": "handler.js",
+  "author": "RC",
+  "license": "MIT",
+  "dependencies": {
+    "es6-promisify": "^6.0.1",
+    "googleapis": "^27.0.0",
+    "pg": "^7.7.1"
+  }
+}
