@@ -1,6 +1,8 @@
 # lambda-google-sheets
 Lambda function to pull data from Postgres database and dump to Google Spreadsheet
 
+More context in this [blog post](https://blog.bitsrc.io/serverless-function-to-sync-data-from-a-database-to-google-spreadsheet-c71af04a1a34)
+
 ### Installation
 
 Clone the repository and run 
